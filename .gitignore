@@ -141,6 +141,7 @@ results/*
 !data/followers/.gitkeep
 !data/users/.gitkeep
 !data/tweets/.gitkeep 
- 
+
+!results/plots/
 !results/graphs/.gitkeep
-!results/plots/*
+!results/.gitkeep
