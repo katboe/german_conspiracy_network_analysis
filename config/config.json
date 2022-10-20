@@ -1,0 +1,35 @@
+{
+	"data_dir": "data",
+	"src_dir": "src",
+	"results_dir": "results",
+	
+	"follower_dir": "data/followers",
+	"tweets_dir": "data/tweets",
+	"friends_dir": "data/friends",
+	"users_dir": "data/users",
+
+	"follower_fname": "followers",
+	"friends_fname": "friends",
+	"users_fname": "users",
+	"tweets_fname": "tweets",
+	
+	"graphs_dir": "results/graphs",
+	"plots_dir": "results/plots",
+
+	"influencer_fname": "influencer_subset",
+	"bot_scores_fname": "bot_scores",
+	"location_fname": "user_locations",
+
+	
+	"twitter_key_dir": "config/",
+	"source_screen_names": "data/conspiracy_source_screen_names.txt",
+
+
+	"total_num_process":4,
+	"page_size": 5000,
+	"influencer_lower_limit": 1000,
+	"pop_hashtag_lower_limit": 10000,
+	"rapidapi_key" : "xxx"
+	
+}
+
