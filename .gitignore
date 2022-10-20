@@ -134,7 +134,7 @@ data/friends/*
 data/followers/*
 data/users/*
 results/graphs/*
-results/*
+results/others/*
 
 # exception to the rule
 !data/friends/.gitkeep 
@@ -142,6 +142,5 @@ results/*
 !data/users/.gitkeep
 !data/tweets/.gitkeep 
 
-!results/plots/
 !results/graphs/.gitkeep
 !results/.gitkeep
